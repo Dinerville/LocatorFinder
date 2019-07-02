@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLocators", "FindLocators.csproj", "{9D605D60-B318-4433-B387-B6B37CE6223E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserInteractions", "BrowserInteractions\BrowserInteractions.csproj", "{A6A052A0-20EF-4BAC-9F04-79F7E0E2B27D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D605D60-B318-4433-B387-B6B37CE6223E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D605D60-B318-4433-B387-B6B37CE6223E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D605D60-B318-4433-B387-B6B37CE6223E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D605D60-B318-4433-B387-B6B37CE6223E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A052A0-20EF-4BAC-9F04-79F7E0E2B27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A052A0-20EF-4BAC-9F04-79F7E0E2B27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A052A0-20EF-4BAC-9F04-79F7E0E2B27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A052A0-20EF-4BAC-9F04-79F7E0E2B27D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3E5349E-970E-4E29-92B8-8D8ECAB9F8D0}
+	EndGlobalSection
+EndGlobal

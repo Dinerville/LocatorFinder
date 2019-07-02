@@ -1,0 +1,14 @@
+C:\Users\d.naumov\Desktop\findLocators\FindLocators\BrowserInteractions\bin\Debug\phantomjs.exe
+C:\Users\d.naumov\Desktop\findLocators\FindLocators\BrowserInteractions\bin\Debug\phantomjs-license.txt
+C:\Users\d.naumov\Desktop\findLocators\FindLocators\BrowserInteractions\bin\Debug\BrowserInteractions.dll
+C:\Users\d.naumov\Desktop\findLocators\FindLocators\BrowserInteractions\bin\Debug\BrowserInteractions.pdb
+C:\Users\d.naumov\Desktop\findLocators\FindLocators\BrowserInteractions\bin\Debug\Selenium.Helper.dll
+C:\Users\d.naumov\Desktop\findLocators\FindLocators\BrowserInteractions\bin\Debug\WebDriver.dll
+C:\Users\d.naumov\Desktop\findLocators\FindLocators\BrowserInteractions\bin\Debug\WebDriver.Support.dll
+C:\Users\d.naumov\Desktop\findLocators\FindLocators\BrowserInteractions\bin\Debug\WebDriver.xml
+C:\Users\d.naumov\Desktop\findLocators\FindLocators\BrowserInteractions\bin\Debug\WebDriver.Support.xml
+C:\Users\d.naumov\Desktop\findLocators\FindLocators\BrowserInteractions\obj\Debug\BrowserInteractions.csprojAssemblyReference.cache
+C:\Users\d.naumov\Desktop\findLocators\FindLocators\BrowserInteractions\obj\Debug\BrowserInteractions.csproj.CoreCompileInputs.cache
+C:\Users\d.naumov\Desktop\findLocators\FindLocators\BrowserInteractions\obj\Debug\BrowserInteractions.csproj.CopyComplete
+C:\Users\d.naumov\Desktop\findLocators\FindLocators\BrowserInteractions\obj\Debug\BrowserInteractions.dll
+C:\Users\d.naumov\Desktop\findLocators\FindLocators\BrowserInteractions\obj\Debug\BrowserInteractions.pdb
